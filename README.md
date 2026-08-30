@@ -18,6 +18,7 @@ I am solving leetcode questions daily and pushing in my github
 | [1480-running-sum-of-1d-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajshankar1230/leetcode-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/rajshankar1230/leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1854-maximum-population-year](https://github.com/rajshankar1230/leetcode-problems/tree/main/1854-maximum-population-year/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ I am solving leetcode questions daily and pushing in my github
 | [1480-running-sum-of-1d-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajshankar1230/leetcode-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/rajshankar1230/leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1854-maximum-population-year](https://github.com/rajshankar1230/leetcode-problems/tree/main/1854-maximum-population-year/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +76,8 @@ I am solving leetcode questions daily and pushing in my github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/rajshankar1230/leetcode-problems/tree/main/1094-car-pooling/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1854-maximum-population-year](https://github.com/rajshankar1230/leetcode-problems/tree/main/1854-maximum-population-year/) | Easy |
 <!---LeetCode Topics End-->
