@@ -15,6 +15,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0724-find-pivot-index](https://github.com/rajshankar1230/leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0848-shifting-letters](https://github.com/rajshankar1230/leetcode-problems/tree/main/0848-shifting-letters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rajshankar1230/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rajshankar1230/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1094-car-pooling](https://github.com/rajshankar1230/leetcode-problems/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/rajshankar1230/leetcode-problems/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -49,6 +50,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0713-subarray-product-less-than-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/rajshankar1230/leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0848-shifting-letters](https://github.com/rajshankar1230/leetcode-problems/tree/main/0848-shifting-letters/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rajshankar1230/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1094-car-pooling](https://github.com/rajshankar1230/leetcode-problems/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/rajshankar1230/leetcode-problems/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -63,6 +65,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rajshankar1230/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajshankar1230/leetcode-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## String
 | Problem Name | Difficulty |
