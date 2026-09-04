@@ -9,6 +9,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/rajshankar1230/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/rajshankar1230/leetcode-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/rajshankar1230/leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
@@ -43,6 +44,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/rajshankar1230/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/rajshankar1230/leetcode-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/rajshankar1230/leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
@@ -58,6 +60,7 @@ I am solving leetcode questions daily and pushing in my github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajshankar1230/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rajshankar1230/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajshankar1230/leetcode-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -86,4 +89,12 @@ I am solving leetcode questions daily and pushing in my github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1854-maximum-population-year](https://github.com/rajshankar1230/leetcode-problems/tree/main/1854-maximum-population-year/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
