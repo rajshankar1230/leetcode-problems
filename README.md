@@ -10,6 +10,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0238-product-of-array-except-self](https://github.com/rajshankar1230/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/rajshankar1230/leetcode-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/rajshankar1230/leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
@@ -46,6 +47,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0238-product-of-array-except-self](https://github.com/rajshankar1230/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/rajshankar1230/leetcode-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/rajshankar1230/leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
@@ -63,6 +65,7 @@ I am solving leetcode questions daily and pushing in my github
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajshankar1230/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rajshankar1230/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
