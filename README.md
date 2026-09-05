@@ -12,6 +12,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/rajshankar1230/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/rajshankar1230/leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0848-shifting-letters](https://github.com/rajshankar1230/leetcode-problems/tree/main/0848-shifting-letters/) | Medium |
@@ -28,6 +29,7 @@ I am solving leetcode questions daily and pushing in my github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0704-binary-search](https://github.com/rajshankar1230/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rajshankar1230/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajshankar1230/leetcode-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
