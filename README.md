@@ -6,6 +6,7 @@ I am solving leetcode questions daily and pushing in my github
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/rajshankar1230/leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/rajshankar1230/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/rajshankar1230/leetcode-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -28,6 +29,7 @@ I am solving leetcode questions daily and pushing in my github
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/rajshankar1230/leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/rajshankar1230/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
