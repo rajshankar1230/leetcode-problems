@@ -10,6 +10,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0035-search-insert-position](https://github.com/rajshankar1230/leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/rajshankar1230/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/rajshankar1230/leetcode-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0525-contiguous-array/) | Medium |
@@ -33,6 +34,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rajshankar1230/leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/rajshankar1230/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rajshankar1230/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -108,5 +110,18 @@ I am solving leetcode questions daily and pushing in my github
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
