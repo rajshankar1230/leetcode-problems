@@ -82,6 +82,7 @@ I am solving leetcode questions daily and pushing in my github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajshankar1230/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0848-shifting-letters](https://github.com/rajshankar1230/leetcode-problems/tree/main/0848-shifting-letters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ I am solving leetcode questions daily and pushing in my github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +126,8 @@ I am solving leetcode questions daily and pushing in my github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
