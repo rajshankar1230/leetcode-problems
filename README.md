@@ -10,6 +10,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rajshankar1230/leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/rajshankar1230/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -37,6 +38,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rajshankar1230/leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/rajshankar1230/leetcode-problems/tree/main/0704-binary-search/) | Easy |
