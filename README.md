@@ -31,6 +31,7 @@ I am solving leetcode questions daily and pushing in my github
 | [1094-car-pooling](https://github.com/rajshankar1230/leetcode-problems/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/rajshankar1230/leetcode-problems/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajshankar1230/leetcode-problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajshankar1230/leetcode-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/rajshankar1230/leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1854-maximum-population-year](https://github.com/rajshankar1230/leetcode-problems/tree/main/1854-maximum-population-year/) | Easy |
@@ -51,6 +52,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0713-subarray-product-less-than-k](https://github.com/rajshankar1230/leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/rajshankar1230/leetcode-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rajshankar1230/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajshankar1230/leetcode-problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajshankar1230/leetcode-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
