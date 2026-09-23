@@ -33,6 +33,7 @@ I am solving leetcode questions daily and pushing in my github
 | [1109-corporate-flight-bookings](https://github.com/rajshankar1230/leetcode-problems/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajshankar1230/leetcode-problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajshankar1230/leetcode-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/rajshankar1230/leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1854-maximum-population-year](https://github.com/rajshankar1230/leetcode-problems/tree/main/1854-maximum-population-year/) | Easy |
@@ -55,6 +56,7 @@ I am solving leetcode questions daily and pushing in my github
 | [1004-max-consecutive-ones-iii](https://github.com/rajshankar1230/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajshankar1230/leetcode-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajshankar1230/leetcode-problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajshankar1230/leetcode-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
