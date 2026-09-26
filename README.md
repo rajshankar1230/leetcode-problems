@@ -6,6 +6,7 @@ I am solving leetcode questions daily and pushing in my github
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rajshankar1230/leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
@@ -110,6 +111,7 @@ I am solving leetcode questions daily and pushing in my github
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [1094-car-pooling](https://github.com/rajshankar1230/leetcode-problems/tree/main/1094-car-pooling/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@ I am solving leetcode questions daily and pushing in my github
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Bit Manipulation
