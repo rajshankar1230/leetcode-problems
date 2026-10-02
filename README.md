@@ -17,6 +17,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0162-find-peak-element](https://github.com/rajshankar1230/leetcode-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/rajshankar1230/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/rajshankar1230/leetcode-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -53,6 +54,7 @@ I am solving leetcode questions daily and pushing in my github
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/rajshankar1230/leetcode-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rajshankar1230/leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rajshankar1230/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajshankar1230/leetcode-problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/rajshankar1230/leetcode-problems/tree/main/0704-binary-search/) | Easy |
@@ -165,8 +167,10 @@ I am solving leetcode questions daily and pushing in my github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajshankar1230/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rajshankar1230/leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
