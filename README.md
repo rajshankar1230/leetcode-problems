@@ -113,6 +113,7 @@ I am solving leetcode questions daily and pushing in my github
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rajshankar1230/leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/rajshankar1230/leetcode-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -173,4 +174,12 @@ I am solving leetcode questions daily and pushing in my github
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rajshankar1230/leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rajshankar1230/leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rajshankar1230/leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
