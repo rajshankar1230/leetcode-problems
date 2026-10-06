@@ -108,6 +108,7 @@ I am solving leetcode questions daily and pushing in my github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajshankar1230/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/rajshankar1230/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/rajshankar1230/leetcode-problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0848-shifting-letters](https://github.com/rajshankar1230/leetcode-problems/tree/main/0848-shifting-letters/) | Medium |
 ## Design
@@ -178,6 +179,7 @@ I am solving leetcode questions daily and pushing in my github
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rajshankar1230/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/rajshankar1230/leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/rajshankar1230/leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
@@ -185,4 +187,8 @@ I am solving leetcode questions daily and pushing in my github
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rajshankar1230/leetcode-problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/rajshankar1230/leetcode-problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rajshankar1230/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
